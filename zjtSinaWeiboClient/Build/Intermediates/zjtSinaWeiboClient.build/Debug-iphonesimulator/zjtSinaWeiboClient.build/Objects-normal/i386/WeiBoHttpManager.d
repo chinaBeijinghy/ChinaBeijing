@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/WeiBoHttpManager.m \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/WeiBoHttpManager.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/ASIHttpRequest/ASIHTTPRequestDelegate.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/StringUtil.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/Additions/NSStringAdditions.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/Additions/NSDataAdditions.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/ASIHttpRequest/ASINetworkQueue.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/ASIHttpRequest/ASIProgressDelegate.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/ASIHttpRequest/ASIFormDataRequest.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/ASIHttpRequest/ASIHTTPRequest.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/ASIHttpRequest/ASIHTTPRequestConfig.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/ASIHttpRequest/ASICacheDelegate.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/Models/Status.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/Models/User.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/Additions/NSDictionaryAdditions.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/SBJson/JSON.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/SBJson/SBJsonParser.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/SBJson/SBJsonBase.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/SBJson/SBJsonWriter.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/SBJson/NSObject+SBJSON.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/SBJson/NSString+SBJSON.h \
+  /Users/jiyi/Downloads/zjtSinaWeiboClient/zjtSinaWeiboClient/Models/Comment.h
